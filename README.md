@@ -17,6 +17,7 @@ Climate change is one of the most pressing global issues of our time. This list 
 - **[En-ROADS](https://www.climateinteractive.org/tools/en-roads/)** – A global climate simulator for testing policy and technology solutions.
 - **[Project Drawdown Tools](https://drawdown.org/solutions)** – Practical tools and resources focused on reducing carbon emissions.
 - **[Open Climate](https://openclimate.network/)** – Open-source platform for global climate accounting and governance.
+- **[Superhighway Energy Research Agent](https://superhighway.walls.sh/guides/energy-research-agent)** – Python agent that researches electricity markets, renewable energy capacity, commodity prices, and energy policy using live web search; generates structured energy market briefs. Pay-per-call, no signup.
   
 ## Datasets & APIs
 
