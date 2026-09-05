@@ -1,4 +1,4 @@
-# Awesome Climate Change [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Climate Change [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -66,9 +66,9 @@ Climate change is one of the most pressing global issues of our time. This list 
 
 ## Related Lists
 
-- [Awesome Environmental Engineering](https://github.com/awesomelistsio/awesome-environmental-engineering)
-- [Awesome Open Science](https://github.com/awesomelistsio/awesome-open-science)
-- [Awesome Green Cloud Computing](https://github.com/awesomelistsio/awesome-green-cloud-computing)
+- [Awesome Environmental Engineering](https://github.com/brandonhimpfen/awesome-environmental-engineering)
+- [Awesome Open Science](https://github.com/brandonhimpfen/awesome-open-science)
+- [Awesome Green Cloud Computing](https://github.com/brandonhimpfen/awesome-green-cloud-computing)
   
 ## Contribute
 
